@@ -1,6 +1,6 @@
 import telebot
 '''Данные для авторизации бота'''
-token = '5874711088:AAF0SMwNzCUdKVJy9HwVu2bxKKKmQlPf3kI'
+token = ''
 bot = telebot.TeleBot(token)
 '''База данных'''
 apple_pod = 'фото/яблоко.jpg'
