@@ -1,0 +1,11 @@
+Найдено классов: 9
+Классы: matiz black, matiz blue, matiz red, rio black, rio blue, rio red, tiggo black, tiggo blue, tiggo red
+Класс 'matiz black': 45 изображений
+Класс 'matiz blue': 334 изображений
+Класс 'matiz red': 346 изображений
+Класс 'rio black': 306 изображений
+Класс 'rio blue': 162 изображений
+Класс 'rio red': 431 изображений
+Класс 'tiggo black': 286 изображений
+Класс 'tiggo blue': 273 изображений
+Класс 'tiggo red': 262 изображений
